@@ -1,0 +1,17 @@
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\bin\Debug\net6.0-windows\MyClipboard.exe
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\bin\Debug\net6.0-windows\MyClipboard.deps.json
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\bin\Debug\net6.0-windows\MyClipboard.runtimeconfig.json
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\bin\Debug\net6.0-windows\MyClipboard.dll
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\bin\Debug\net6.0-windows\MyClipboard.pdb
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.Form1.resources
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.AssemblyInfo.cs
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.dll
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\refint\MyClipboard.dll
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.pdb
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\MyClipboard.genruntimeconfig.cache
+C:\Users\Mike\source\repos\MyClipboard\MyClipboard\obj\Debug\net6.0-windows\ref\MyClipboard.dll
