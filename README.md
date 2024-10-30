@@ -16,5 +16,8 @@ This utility has been modified with the following enhancements:
 _The V1 code remains available in the .v1 directory for reference._
 
 
+## The Utility
+``![Screenshot_of_Utility](https://gist.github.com/user-attachments/assets/e8304c29-041f-4a35-96c9-e004b0ea0f59)``
+
 ## Security Warning for Password Use/Sensitive Text
 Tracking text values that are copied to the clipboard includes passwords. This means the utility will openly display the text values of passwords if you copy them and the utility is running. If you have any external entities monitoring your screen, either remotely via technology, or physically within your presence, it's suggested to avoid copying sensitive text values while running this utility.
